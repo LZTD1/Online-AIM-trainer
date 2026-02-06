@@ -6,7 +6,7 @@
   
   **A browser-based mouse accuracy trainer with advanced analytics, 4 game modes, and real-time cursor path visualization.**
 
-[▸ Play Online](https://lztd1.github.io/Online-AIM-trainer/) · [Screenshots](#-screenshots) · [Getting Started](#-getting-started)
+[▸ Play Online](https://online-aim-trainer.vercel.app/) · [Screenshots](#-screenshots) · [Getting Started](#-getting-started)
 
 </div>
 
