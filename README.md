@@ -1,7 +1,10 @@
 # 🎯 Aim Trainer Pro
 
 <div align="center">
-**A browser-based mouse accuracy trainer with advanced analytics, 4 game modes, and real-time cursor path visualization.**
+  
+<img width="721" height="689" alt="image" src="https://github.com/user-attachments/assets/e19958ff-a9c8-4b64-918e-002798902c4f" />
+  
+  **A browser-based mouse accuracy trainer with advanced analytics, 4 game modes, and real-time cursor path visualization.**
 
 [▸ Play Online](https://lztd1.github.io/Online-AIM-trainer/) · [Screenshots](#-screenshots) · [Getting Started](#-getting-started)
 
