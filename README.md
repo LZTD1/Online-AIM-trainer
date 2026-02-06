@@ -56,13 +56,14 @@ Aim Trainer Pro is an interactive tool designed to help you improve your mouse a
 <summary>Expand screenshots</summary>
 
 ### Main Menu
-Mode selection, duration slider, target size configuration.
+<img width="1654" height="877" alt="image" src="https://github.com/user-attachments/assets/10c48de8-5f1f-4d60-9149-d6986ee04367" />
+
 
 ### Gameplay
-Zoned targets, live stats HUD, timer with low-time warning, cursor trail visualization.
+<img width="1885" height="896" alt="image" src="https://github.com/user-attachments/assets/8174f1b2-e12c-4802-9bcf-0d574ac1db79" />
 
 ### Results Screen
-Final grade (S+/S/A/B/C/D), detailed stats breakdown, zone hit distribution bars.
+<img width="1198" height="859" alt="image" src="https://github.com/user-attachments/assets/ed872235-ef48-4c26-b53c-f5cd70db5bc6" />
 
 </details>
 
